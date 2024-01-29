@@ -31,7 +31,6 @@
             "playerType": 2,
             "timeout": 30,
             "changeable": 0,
-            "jar": "./fan.jar",
             "ext": "./json/玩偶哥哥(新).json"
         },
         {
@@ -421,7 +420,6 @@
             "api": "csp_UpYun",
             "timeout": 30,
             "changeable": 0,
-            "jar": "./fan.jar",
             "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
         },
         {
@@ -429,7 +427,6 @@
             "name": "🐷┃易搜┃网盘",
             "type": 3,
             "api": "csp_YiSo",
-            "jar": "./fan.jar",
             "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
         },
         {
