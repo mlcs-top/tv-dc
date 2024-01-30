@@ -24,7 +24,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "荐片",
@@ -219,7 +219,7 @@
             "api": "csp_Local",
             "searchable": 0,
             "changeable": 0,
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "七夜",
@@ -229,7 +229,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "易搜",
@@ -239,7 +239,7 @@
             "api": "csp_YiSo",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "云搜",
@@ -249,7 +249,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "盘搜",
@@ -259,7 +259,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "紙條搜",
@@ -269,7 +269,7 @@
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "盘搜索",
@@ -279,7 +279,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "找資源",
@@ -289,7 +289,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto$$$test2$$$test2",
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "csp_Nbys",
@@ -971,7 +971,7 @@
             "api": "csp_Push",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jars/fan.jar"
+            "jar": "./jars/xspider.jar"
         },
         {
             "key": "应用打赏",
