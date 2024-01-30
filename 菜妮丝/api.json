@@ -1,4 +1,4 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+
 
 {
     "菜妮丝": "https://cainisi.cf",
@@ -17,14 +17,15 @@
             "jar": "./jars/豆瓣.jar"
         },
         {
-            "key": "玩偶",
-            "name": "玩偶┃云盘",
+            "key": "玩偶哥哥",
+            "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
-            "api": "csp_Wogg",
+            "api": "csp_WoGG",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
-            "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
-            "jar": "./jars/xspider.jar"
+            "jar": "./jars/fan.jar",
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto$$$https://www.wogg.xyz/$$$弹"
         },
         {
             "key": "荐片",
@@ -219,77 +220,72 @@
             "api": "csp_Local",
             "searchable": 0,
             "changeable": 0,
-            "jar": "./jars/xspider.jar"
+            "jar": "./jars/豆瓣.jar"
+        },
+        {
+            "key": "YiSo",
+            "name": "😹易搜┃搜索",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar": "./jars/fan.jar",
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+        },
+        {
+            "key": "PanSou",
+            "name": "🦊盘搜┃搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar": "./jars/fan.jar",
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+        },
+        {
+            "key": "UpYun",
+            "name": "😻Up搜┃搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar": "./jars/fan.jar",
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
+        },
+        {
+            "key": "PanSearch",
+            "name": "🙀盘Se┃搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar": "./jars/fan.jar",
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
         },
         {
             "key": "七夜",
-            "name": "七夜┃云盘",
+            "name": "😾七夜┃搜索",
             "type": 3,
-            "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
             "api": "csp_Dovx",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
-            "jar": "./jars/xspider.jar"
+            "jar": "./jars/fan.jar",
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
         },
         {
-            "key": "易搜",
-            "name": "易搜┃云盘",
+            "key": "push_agent",
+            "name": "🛴手机┃推送",
             "type": 3,
-            "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./jars/xspider.jar"
-        },
-        {
-            "key": "云搜",
-            "name": "云搜┃云盘",
-            "type": 3,
-            "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./jars/xspider.jar"
-        },
-        {
-            "key": "盘搜",
-            "name": "盘搜┃云盘",
-            "type": 3,
-            "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./jars/xspider.jar"
-        },
-        {
-            "key": "紙條搜",
-            "name": "紙條┃云盘",
-            "type": 3,
-            "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./jars/xspider.jar"
-        },
-        {
-            "key": "盘搜索",
-            "name": "盘搜索┃云盘",
-            "type": 3,
-            "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./jars/xspider.jar"
-        },
-        {
-            "key": "找資源",
-            "name": "找資源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto$$$test2$$$test2",
-            "jar": "./jars/xspider.jar"
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "jar": "./jars/fan.jar",
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
         },
         {
             "key": "csp_Nbys",
@@ -963,60 +959,9 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "./js/310直播.js"
-        },
+        },    
         {
-            "key": "push_agent",
-            "name": "推送┃链接",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "./jars/xspider.jar"
-        },
-        {
-            "key": "应用打赏",
-            "name": "应用┃打赏",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/market.json",
-            "jar": "./jars/豆瓣.jar"
-        },
-        {
-            "key": "公告",
-            "name": "——————————",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明1",
-            "name": "菜妮丝",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明2",
-            "name": "https://cainisi.cf",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明3",
-            "name": "免费接口更新维护",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明4",
+            "key": "说明",
             "name": "请勿相信视频中任何广告",
             "type": 3,
             "api": "csp_XPath",
