@@ -52,17 +52,6 @@
             "changeable": 1
         },
         {
-            "key": "小柚",
-            "name": "🍊小柚",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
-        },
-        {
             "key": "萌米",
             "name": "👀萌米",
             "type": 3,
@@ -130,6 +119,16 @@
             "changeable": 1
         },
         {
+            "key": "csp_Jianpian",
+            "name": "🧲荐片",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://api2.rinhome.com"
+        },
+        {
             "key": "csp_DiDuan",
             "name": "📺低端",
             "type": 3,
@@ -137,16 +136,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "csp_Zxzj",
-            "name": "🏠在线之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzj.pro/"
         },
         {
             "key": "csp_Auete",
@@ -274,6 +263,17 @@
             "filterable": 1
         },
         {
+            "key": "csp_Duanju",
+            "name": "🎭短剧",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://duanju.one"
+        },
+        {
             "key": "csp_Yj1211",
             "name": "📽️在线直播",
             "type": 3,
@@ -281,6 +281,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_Kanqiu",
+            "name": "⚽88看球",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "Aid",
@@ -313,17 +323,6 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🦊找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto$$$lmok37266@bazatek.com$$$Yoursmile"
         },
         {
             "key": "PanSou",
@@ -370,6 +369,17 @@
             "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
         },
         {
+            "key": "Zhaozy",
+            "name": "🦊找资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto$$$lmok37266@bazatek.com$$$Yoursmile"
+        },
+        {
             "key": "push_agent",
             "name": "🍭推送",
             "type": 3,
@@ -396,17 +406,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "dr_荐片",
-            "name": "🧲荐片",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "playerType": "1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/荐片.js"
         },
         {
             "key": "农民",
@@ -497,7 +496,7 @@
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+                "分类": "电影&剧集&动漫&综艺&短剧&少儿",
                 "分类值": "1&2&3&4&12&5",
                 "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
                 "副标题": "<div class=\"module-item-note\">&&</div>",
@@ -508,16 +507,6 @@
                 "主演": "主演：&&</div>",
                 "简介": "<p>&&</p>"
             }
-        },
-        {
-            "key": "drpy_js_短剧网",
-            "name": "🗽短剧网",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./js/短剧网.js"
         },
         {
             "key": "drpy_js_虎牙直播",
@@ -549,16 +538,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "./js/有声小说吧.js"
-        },
-        {
-            "key": "drpy_js_88看球",
-            "name": "88看球",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./js/88看球.js"
         },
         {
             "key": "drpy_js_JRKAN直播",
