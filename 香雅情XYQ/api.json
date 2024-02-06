@@ -131,7 +131,7 @@
             "ext": "./json/玩偶哥哥.json"
         },
         {
-            "key": "csp_XYQHikerAL_玩偶哥哥",
+            "key": "csp_XYQHikerAL_玩偶哥哥主域名",
             "name": "📀玩偶哥哥|主(优)",
             "type": 3,
             "api": "csp_XYQHikerAL",
@@ -141,7 +141,7 @@
             "ext": "./json/玩偶哥哥主域名.json"
         },
         {
-            "key": "csp_XYQHikerAL_玩偶哥哥",
+            "key": "csp_XYQHikerAL_玩偶哥哥备用",
             "name": "📀玩偶哥哥|备(优)",
             "type": 3,
             "api": "csp_XYQHikerAL",
