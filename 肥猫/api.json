@@ -1,5 +1,3 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
-
 {
     "spider": "./spider.jar",
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
@@ -13,6 +11,20 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "./js/豆瓣推荐.js"
+        },
+        {
+            "key": "csp_绿豆",
+            "name": "🐼┃绿豆┃影视",
+            "type": 3,
+            "api": "csp_Lvdou",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "playerType": "1",
+            "ext": {
+                "server": "http://s.weixine.net/api.php/app/",
+                "mackey": "6JLF1OWhgEnMexAs|6CrRdTxr2qXj9258"
+            }
         },
         {
             "key": "nangua",
@@ -86,10 +98,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_Cs1369",
-            "name": "🥃┃九六┃影视",
+            "key": "csp_Vidhub2",
+            "name": "🎼┃Vid┃影视",
             "type": 3,
-            "api": "csp_Cs1369",
+            "api": "csp_Vidhub2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -118,7 +130,9 @@
             "type": 3,
             "playerType": "2",
             "api": "csp_Czsapp",
-            "jar": "./jars/厂长.jar"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "Libvio",
@@ -477,15 +491,6 @@
             },
             "ext": "./json/高中课堂.json",
             "jar": "./jars/蜂鸟.jar"
-        },
-        {
-            "key": "应用商店",
-            "name": "🏡┃应用┃商店",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/market.json"
         },
         {
             "key": "push_agent",
