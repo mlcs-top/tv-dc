@@ -46,7 +46,7 @@
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$MOBILE_UA",
     "搜索链接": "https://lzi888.com/index.php/vod/search.html?wd={wd}",
-    //"搜索链接": "http://www.lzizy8.com/index.php/vod/search.html?wd={wd}",
+    //"搜索链接": "http://www.lzizy9.com/index.php/vod/search.html?wd={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": "body&&.module-search-item:not(:contains(伦理))||.module-card-item:not(:contains(伦理))",
